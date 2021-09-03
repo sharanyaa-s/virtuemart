@@ -36,5 +36,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/sharanyaaa.s.360LOGICA/Downloads/chromedriver_win32.zip"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sharanyaaa.s.360LOGICA/Downloads/maven-surefire-plugin-3.0.0-M5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
